@@ -1,4 +1,6 @@
-<h1 align="center">Easy Shopping</h1>
+<h1 align="center">
+  <img src="https://github.com/Bruno-Oliveira-New/easy-shopping/blob/main/assets/easy-shopping-readme-semfundo.png?raw=true" alt=logo-easy-shopping/ width="450px">
+</h1>
 <br/>
 <p>Esse foi um projeto que eu aprendi no <a href="https://www.youtube.com/@canaldevclub">DevClub</a> onde criei um site responsível. Quando aberto em qualquer dispositivo ele se adapatará ao tamanho da tela (quantidade de pixels) do seu dispositivo afim de proporcionar a melhor experiência de navegação.</p>
 
